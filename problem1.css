@@ -1,0 +1,95 @@
+
+
+body {background-color: rgb(197, 170, 238);}
+
+
+h1 {
+
+    text-decoration: underline;
+  text-decoration: underline overline;
+
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(45, 0, 0);
+    text-align: center;
+
+}
+
+h2 {
+    text-decoration: underline;
+
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(45, 0, 0);
+    text-align: center;
+
+}
+
+hr{
+    height: 12px;
+    border: 0;
+ }
+ p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 70px;
+ }
+
+
+ h3 {
+    text-decoration: underline;
+
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(45, 0, 0);
+    text-align: center;
+
+}
+
+.h5 {
+    text-decoration: underline;
+
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(45, 0, 0);
+    text-align: center;
+}
+
+  
+  .toggle-btn {
+    width: 90px;
+    height: 40px;
+    margin: 0 auto;
+    display: block;
+    text-align: center; 
+  }
+  .recipe {
+    display: none;
+  }
+  
+  .show-recipe {
+    display: block;
+    color: rgb(45, 0, 0);
+  }
+
+  .recipe-box {
+    border-style: solid;
+    background-color: rgb(255,240,219);
+    margin: 50px;
+    padding: 50px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .recipe-box2 {
+    border-style: solid;
+    background-color: rgb(213, 191, 232);
+    margin: 50px;
+    padding: 50px;
+  }
